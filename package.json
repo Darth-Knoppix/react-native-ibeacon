@@ -6,6 +6,15 @@
     "url": "https://github.com/geniuxconsulting/react-native-ibeacon.git"
   },
   "license": "MIT",
-  "keywords": ["react-native", "react-component", "ios", "ibeacon", "beacon"],
-  "main": "RNBeacon.ios.js"
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "ibeacon",
+    "beacon"
+  ],
+  "main": "RNBeacon.ios.js",
+  "devDependencies": {
+    "react-native": "^0.47.1"
+  }
 }
